@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+label {
+    display:block;
+    float:left;
+}
+.m-title {
+    width: 300px;
+    margin-left: 60px;
+}
+.m-description {
+    width: 300px;
+    margin-left: 16px;
+}
+.m-release {
+    width: 300px;
+    margin-left: 10px;
+}
+.m-picture {
+    width: 300px;
+    margin-left: 45px;
+}
+.m-rating {
+    width: 300px;
+    margin-left: 48px;
+}
+.movie-pic {
+    width: 250px;
+}
+.title-span {
+    font-size: 25px;
+    font-weight: bold;
+}
+.description {
+    width: 500px;
+}
